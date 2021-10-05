@@ -1,0 +1,112 @@
+@import url(https://fonts.googleapis.com/css2?family=Merienda&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Comfortaa);
+* {
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+html {
+    font-size: 62.5%
+}
+
+body {
+    font-family: Comfortaa, cursive;
+    background-color: #344e76
+}
+
+a {
+    color: inherit;
+    text-decoration: none
+}
+
+a:focus,
+a:hover {
+    color: #f0f8ff
+}
+
+@-webkit-keyframes slide-down {
+    0% {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+@keyframes slide-down {
+    0% {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+@media (min-width:100px) {
+    html {
+        font-size: 10%
+    }
+}
+
+@media (min-width:180px) {
+    html {
+        font-size: 30%
+    }
+}
+
+@media (min-width:280px) {
+    html {
+        font-size: 35%
+    }
+}
+
+@media (min-width:350px) {
+    html {
+        font-size: 40%
+    }
+}
+
+@media (min-width:480px) {
+    html {
+        font-size: 50%
+    }
+}
+
+@media (min-width:768px) {
+    html {
+        font-size: 60%
+    }
+}
+
+@media (min-width:1024px) {
+    html {
+        font-size: 60%
+    }
+}
+
+@media (min-width:1200px) {
+    html {
+        font-size: 60%
+    }
+}
+
+@media (min-width:1201px) {
+    html {
+        font-size: 62.5%
+    }
+}
+
+::-webkit-scrollbar {
+    width: 5px
+}
+
+::-webkit-scrollbar-track {
+    background: #f0f8ff
+}
+
+::-webkit-scrollbar-thumb,
+::-webkit-scrollbar-thumb:hover {
+    background: #344e76
+}
