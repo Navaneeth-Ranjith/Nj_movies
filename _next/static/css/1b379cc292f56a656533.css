@@ -1,12 +1,6 @@
 @import url(https://fonts.googleapis.com/css2?family=Merienda&display=swap);
 @import url(https://fonts.googleapis.com/css2?family=Comfortaa);
 * {
-    padding: 0;
-    margin: 0;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box
-}
-
 html {
     font-size: 62.5%
 }
