@@ -1,12 +1,5 @@
 @import url(https://fonts.googleapis.com/css2?family=Merienda&display=swap);
-@import url(https://fonts.googleapis.com/css2?family=Comfortaa);
-* {
-html {
-    font-size: 62.5%
-}
-
-body {
-    font-family: Comfortaa, cursive;
+@imp
     background-color: #344e76
 }
 
